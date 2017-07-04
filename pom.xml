@@ -9,6 +9,8 @@
         <module>common</module>
         <module>taotao-manager</module>
         <module>mybatisGenerator</module>
+        <module>taotao-rest</module>
+        <module>taotao-portal</module>
     </modules>
     <packaging>pom</packaging>
 
